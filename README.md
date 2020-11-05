@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **PHP / Symfony** projects at *Linkvalue*
 
-🌱 I’m currently learning : **Tests, devops**, frontend (react), project/product management
+🌱 I’m currently learning : **Tests, devops**, frontend (vuejs), project/product management
 
 ---------------------
 
