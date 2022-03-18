@@ -5,9 +5,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
 
-🔭 I’m currently working on **PHP / Symfony** projects at *Linkvalue*
+🔭 I’m currently working on **PHP / Symfony** projects at *OpenClassrooms*
 
-🌱 I’m currently learning : **Tests, devops**, frontend (vuejs), project/product management
+🌱 I’m currently learning : **Tests, devops**, frontend (vuejs)
 
 ---------------------
 
